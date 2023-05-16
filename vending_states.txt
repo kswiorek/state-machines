@@ -1,0 +1,4 @@
+# Logisim PLA program table
+1110 10
+1111 11
+xxxx 00
